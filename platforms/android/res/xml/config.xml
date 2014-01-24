@@ -10,12 +10,12 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
-    <name>HelloWorld</name>
+    <name>Altitude Meter</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Simple altitude meter.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="info@peregin.com" href="http://peregin.com">
+        Peregin Team
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
