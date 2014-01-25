@@ -5,3 +5,7 @@ Track altitude (only) during hiking via GPS. The idea is to show only the altitu
 Eventually to store reference altitudes, such as your home location on the start of the hiking, etc.
 
 From technical perspective the implementation in done with PhoneGap.
+
+## How to run it
+
+        phonegap run android
