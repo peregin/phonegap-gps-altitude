@@ -6,7 +6,7 @@ Eventually to store reference altitudes, such as your home location on the start
 
 The implementation is done with PhoneGap.
 
-## How to run it
+## How to run it on Android
 
         phonegap run android
 
